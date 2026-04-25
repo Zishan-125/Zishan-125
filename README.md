@@ -1,4 +1,3 @@
-# 💫 About Me:
 ## 👨‍💻 About Me
 
 🔭 Building **SmartDo** (AI task manager) and refining **AN-NUR** (digital spiritual suite)
