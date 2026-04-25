@@ -1,5 +1,21 @@
 # 💫 About Me:
-🔭 I’m currently working on "SmartDo," an AI-powered task management system, and refining "AN-NUR," a digital suite for spiritual focus.<br><br><br><br>👯 I’m looking to collaborate on open-source full-stack web applications, particularly those using the MERN or PERN stack.<br><br><br><br>🤝 I’m looking for help with advanced UI/UX design patterns and integrating more complex AI strategic insights into web tools.<br><br><br><br>🌱 I’m currently learning advanced cloud deployment strategies and deep-diving into the Gemini API for more native AI integrations.<br><br><br><br>💬 Ask me about React, Node.js, building campus-wide social entrepreneurship programs. <br><br><br><br>⚡ Fun fact I once managed a global social entrepreneurship competition as a Founding Campus Director while juggling a full Computer Science degree.
+## 👨‍💻 About Me
+
+🔭 Building **SmartDo** (AI task manager) and refining **AN-NUR** (digital spiritual suite)
+
+💻 Developed the official **Hult Prize at Feni University** website
+
+👉 https://hultprizeatfeniuniversity.netlify.app/
+
+👯 Open to collaborating on **MERN / PERN** full-stack projects
+
+🤝 Exploring **advanced UI/UX patterns** and **AI-driven insights integration**
+
+🌱 Learning **cloud deployment** and working with the **Gemini API**
+
+💬 Ask me about **React, Node.js, and social entrepreneurship programs**
+
+⚡ Led a global social entrepreneurship competition as a **Founding Campus Director** while pursuing CSE
 
 
 ## 🌐 Socials:
